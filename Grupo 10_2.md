@@ -1,0 +1,3 @@
+
+
+el grupo escogio el tema del hacking ético porque creemos que es fundamental para la seguridad informática en la era digital actual. Al estudiar este tema, se puede desarrollar habilidades importantes en seguridad informática y contribuir a la sociedad ayudando a las organizaciones a mejorar su seguridad y proteger la información confidencial de los individuos. Además, creemos que el hacking ético tiene aplicaciones prácticas en la industria y puede ayudar a las organizaciones a identificar vulnerabilidades y mejorar su seguridad."
