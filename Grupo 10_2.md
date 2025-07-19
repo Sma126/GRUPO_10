@@ -1,1 +1,2 @@
 El hacking etico es una parte importante dentro de la ciberseguridad por lo que creemos que es necesario rescatar este repositorio para futuro aprendizaje y consultas acerca de los temas tratados. 
+Lo que permite tener en un solo lugar documentación técnica, enlaces, laboratorios, etc., la cual facilita un estudio más estructurado y al estar en GitHub permite a la comunidad realizar retroalimentación, actualización de contenidos y aclaración de dudas.
