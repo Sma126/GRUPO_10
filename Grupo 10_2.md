@@ -1,0 +1,1 @@
+El hacking ético representa un componente clave en el ámbito de la ciberseguridad, por lo que consideramos valioso recuperar este repositorio como recurso para futuras consultas y aprendizajes relacionados con los temas abordados. Por esta razón, entre otros intereses, optamos por trabajar con el repositorio enfocado en hacking ético.
