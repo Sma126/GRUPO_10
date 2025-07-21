@@ -1,1 +1,1 @@
-El hacking etico es una parte importante dentro de la ciberseguridad por lo que creemos que es necesario rescatar este repositorio para futuro aprendizaje y consultas acerca de los temas tratados. 
+El hacking etico es una parte importante dentro de la ciberseguridad por lo que creemos que es necesario rescatar este repositorio para futuro aprendizaje y consultas acerca de los temas tratados. Por esto y mas intereses escogimos el repositorio. 
