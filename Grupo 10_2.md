@@ -4,6 +4,7 @@ Lo que permite tener en un solo lugar documentación técnica, enlaces, laborato
 
 El hacking ético representa un componente clave en el ámbito de la ciberseguridad, por lo que consideramos valioso recuperar este repositorio como recurso para futuras consultas y aprendizajes relacionados con los temas abordados. Por esta razón, entre otros intereses, optamos por trabajar con el repositorio enfocado en hacking ético.
 
+William-Hidalgo
 El hacking ético es una herramienta fundamental en la ciberseguridad, ya que permite a los profesionales identificar vulnerabilidades y debilidades en los sistemas y redes antes de que los atacantes maliciosos puedan explotarlas. En una maestría en Ciberseguridad, el hacking ético es importante porque:
 
 - Desarrolla habilidades prácticas: El hacking ético permite a los estudiantes desarrollar habilidades prácticas en la identificación y explotación de vulnerabilidades, lo que les permite mejorar su capacidad para proteger los sistemas y redes.
